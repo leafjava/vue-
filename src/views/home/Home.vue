@@ -174,6 +174,7 @@
     deactivated() {
       // console.log('deactivated');
       this.saveY = this.$refs.scroll.getScrollY()
+
     }
   }
 </script>
